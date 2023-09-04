@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15650854590",
+    "project_id": "groupy-630e2",
+    "storage_bucket": "groupy-630e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15650854590:android:b6fedfa66bf2eaf992b0ef",
+        "android_client_info": {
+          "package_name": "com.example.chatappgroupi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15650854590-8clo4grmcuqlais1ocn800mp4d75mkmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDRkwIShaqJaOLyqfgBSn-3SmY5FjzHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15650854590-8clo4grmcuqlais1ocn800mp4d75mkmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
